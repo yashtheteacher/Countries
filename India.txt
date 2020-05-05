@@ -2,3 +2,4 @@ Name : India
 Capital : Delhi
 Leader : Narendra Modi, Prime Minister
 Currency : Indian Rupee
+Sport : Cricket
